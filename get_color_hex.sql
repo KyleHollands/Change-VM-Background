@@ -1,0 +1,1 @@
+SELECT hex FROM wax.crayons WHERE color = ('${var:color}')
